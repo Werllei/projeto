@@ -182,6 +182,7 @@ footer span {
 @media (min-width: 700px) {
   :root {
     --bg-url: url(./assets/bg-desktop-dark.jpg);
+    height: 100vh;
   }
 
   .light {
